@@ -4,5 +4,7 @@ Script that work with a Microphone Sensor AVR PIC High Sensitivity Sound Detecti
 Wiring
 
 G   -> Pin #6  (Ground)
+
 VCC -> Pin #2  (Power 5v) (On some models, like mine, it'a a plus sign)
+
 DO  -> Pin #11 (Data GPIO 17)
